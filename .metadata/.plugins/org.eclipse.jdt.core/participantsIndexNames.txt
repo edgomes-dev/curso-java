@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\SAMSUNG\Desktop\Programação\projetos\curso-java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1239803670.index
+\curso-jsp\src\main\java
+C:\Users\SAMSUNG\Desktop\Programação\projetos\curso-java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3897528423.index
+\curso-jsp\src\main\java

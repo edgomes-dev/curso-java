@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\SAMSUNG\Desktop\Programação\projetos\curso-java\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1875906760.index
